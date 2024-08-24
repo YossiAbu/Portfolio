@@ -6,7 +6,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const About = () => {
   const handleDownloadCV = () => {
-    window.open('/CV.pdf', '_blank');
+    window.open(`${process.env.PUBLIC_URL}/CV.pdf`, '_blank');
   };
 
   const handleContactInfo = () => {
