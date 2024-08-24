@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.602c9b81.css",
+    "main.js": "/portfolio/static/js/main.5d070f56.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/profile-img.png": "/portfolio/static/media/profile-img.457b9bbbfbfd7a65c9d7.png",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/tattoo-laser-removal.png": "/portfolio/static/media/tattoo-laser-removal.768277bac087083eed81.png",
+    "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/cost-of-living.png": "/portfolio/static/media/cost-of-living.e0652a8f4068275e9d63.png",
+    "static/media/legalization-in-twitter.png": "/portfolio/static/media/legalization-in-twitter.25f8d2d681414511712b.png",
+    "static/media/email.png": "/portfolio/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/portfolio/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/my-logo 6 cut.png": "/portfolio/static/media/my-logo 6 cut.8933e8d4daec490728dc.png",
+    "static/media/instagram-icon.svg": "/portfolio/static/media/instagram-icon.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/linkdein-icon.svg": "/portfolio/static/media/linkdein-icon.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/facebook-icon.svg": "/portfolio/static/media/facebook-icon.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.602c9b81.css.map": "/portfolio/static/css/main.602c9b81.css.map",
+    "main.5d070f56.js.map": "/portfolio/static/js/main.5d070f56.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602c9b81.css",
+    "static/js/main.5d070f56.js"
+  ]
+}
