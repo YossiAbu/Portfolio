@@ -14,10 +14,8 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <div className='home-about-wrapper'>
-        <Home/>
-        <About/>
-      </div>
+      <Home/>
+      <About/>
       <Skills/>
       <Projects/>
       <Contact/>

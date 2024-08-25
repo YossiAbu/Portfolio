@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useActiveLink } from "../hooks/useActiveLink";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import logo from '../assets/img/my-logo 6 cut.png';
+import logo from '../assets/img/logo.png';
 import linkdeinIcon from '../assets/img/linkdein-icon.svg';
 import facebookIcon from '../assets/img/facebook-icon.svg';
 import instagramIcon from '../assets/img/instagram-icon.svg';
