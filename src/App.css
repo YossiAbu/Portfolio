@@ -556,47 +556,71 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   gap: 1rem;
 }
 
-article {
+.skill-item {
   display: flex;
-  align-items: start;
-  gap: 0.5rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.2rem;
+  text-align: left;
 }
 
-article .icon {
+.checkmark-icon {
   width: 28px;
   height: 28px;
   filter: invert(1);
 }
 
-article h3 {
-  text-align: left;
+.text-container {
+  flex: 1;
+  margin-left: 0.5rem;
+}
+
+.text-container h3 {
+  margin: 0;
   font-size: 1.1rem;
   font-weight: 900;
 }
 
-article p {
-  text-align: left;
+.text-container p {
+  margin: 0;
   font-size: 0.9rem;
 }
 
 .icon-container {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-right: 0.5rem;
 }
 
 .skill-icon {
   width: 50px; 
   height: 50px;
-  max-width: 100%;
   object-fit: contain;
 }
 
-.text-container {
-  margin-bottom: 0.5rem;
-  width: 100px;
-}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .details-container {
+    width: 100%; /* Ensure full width on smaller screens */
+  }
 
+  .skill-item {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+    text-align: center;
+  }
+
+  .text-container {
+    margin-left: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .skill-icon {
+    width: 40px; 
+    height: 40px; /* Adjust icon size for smaller screens */
+  }
+}
 
 /************ Projects Css ************/
 

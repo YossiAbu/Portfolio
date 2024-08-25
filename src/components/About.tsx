@@ -51,14 +51,14 @@ export const About = () => {
                 <div className={isVisible ? "animate__animated animate__slideInUp": ""}>
                   <h1>About Me</h1>
                   <p id='about-text'>
-                  I am a proactive and self-motivated software engineer
-                  with strong problem-solving skills and a keen attention to detail.
+                  I’m a software engineer who loves diving into challenges 
+                  and finding solutions with a keen attention to detail.
                   <br/>
-                  I excel in collaborative environments, 
-                  where my excellent communication abilities contribute to the team’s success.
+                  Driven by curiosity and a genuine passion for teamwork, I enjoy sharing ideas and growing together.
+                  I’m always ready to help where I can and eager to learn new things.
                   <br/>
-                  My adaptability to new technologies and ability to work under pressure 
-                  ensure that I consistently meet deadlines with high-quality results.
+                  I adapt quickly to new tools and approaches, 
+                  and no matter how tough things get, I stay focused on delivering my best work on time.
                   </p>   
                 </div>}
           </TrackVisibility>
